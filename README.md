@@ -32,15 +32,14 @@
   
  <h3 alinhar="esquerda">Entre em contato comigo!</p>
  <div align="left">
+      <a href =https://www.instagram.com/aalexiasilveira_/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=060606&logoColor=FF00F6&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-   <a href =https://www.instagram.com/aalexiasilveira_/" target="_blank">
+      <a href = https://discord.gg/3qEDVCb6" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=060606&logoColor=FF00F6&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href = https://discord.gg/3qEDVCb6" target="_blank">
+      <a href =mailto:cmp.1a.alexiasilveira9@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=060606&logoColor=FF00F6&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href =mailto:cmp.1a.alexiasilveira9@gmail.com" target="_blank">
+      <a href =https://www.linkedin.com/in/alexiasilveiraa/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=060606&logoColor=FF00F6&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <a href =https://www.linkedin.com/in/alexiasilveiraa/" target="_blank">
-
 </div>
 
 ##
